@@ -1,1 +1,1 @@
-token = "1346585178:AAFFsffzqGW891jVs1byQ7MQDikESnni9Wk"
+token = "В ковычках поставьте ваш токен телеграмм бота"
